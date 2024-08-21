@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="Winning Wedge.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="4.0970528"
+     inkscape:cx="266.53306"
+     inkscape:cy="131.19187"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="421.76659"
+       y="254.32916"
+       width="18.061763"
+       height="150.84013"
+       id="rect19" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1"
+       style="fill:#fce431;stroke:#000000;stroke-width:0.1"
+       d="m 63.029604,13.535822 -0.0094,0.07122 c -2.545339,-0.255259 -5.110288,-0.245862 -7.653689,0.02804 l -0.013,-0.09919 -1.595257,0.325816 4.930181,36.556878 34.795686,-13.851818 -0.491303,-1.299929 -0.05515,0.02298 C 91.884046,32.957883 90.59135,30.74154 89.080339,28.676377 l 0.07421,-0.05695 -1.217666,-1.586893 -0.0748,0.05739 C 86.258574,25.09577 84.452521,23.27334 82.472923,21.651895 l 0.03647,-0.04733 -1.586863,-1.217483 -0.06542,0.08521 C 78.801249,18.946662 76.592598,17.638524 74.266654,16.5689 l 0.0083,-0.01975 -1.848073,-0.765571 -0.03822,0.09244 c -2.385804,-0.923022 -4.8609,-1.59613 -7.38557,-2.008524 l 0.0093,-0.0707 -0.99088,-0.130452 z m -0.139826,1.062085 -1.435835,10.906251 c -1.504939,-0.132934 -3.018831,-0.129175 -4.523092,0.01123 L 55.496845,14.624836 c 2.456857,-0.262659 4.934228,-0.271683 7.392933,-0.02693 z m 1.98277,0.261037 c 2.43827,0.399946 4.828888,1.049852 7.134045,1.939442 l -4.182454,10.09692 C 66.40239,26.371093 64.935925,25.977229 63.442851,25.718577 Z m 9.010519,2.635776 c 2.246059,1.034352 4.37957,2.297367 6.366739,3.769041 l -6.647125,8.662233 c -1.238239,-0.873535 -2.553337,-1.632679 -3.929053,-2.268058 z m 7.982498,4.949146 c 1.91091,1.567597 3.655303,3.327819 5.205575,5.252812 l -8.673733,6.65558 C 77.42684,33.188551 76.352479,32.115497 75.187592,31.146346 Z m 6.422667,6.84015 c 1.458333,1.995505 2.707287,4.135888 3.727099,6.387279 l -10.134337,4.198058 c -0.634633,-1.376029 -1.393058,-2.691509 -2.265912,-3.930194 z"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text19"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:'Barbie Vintage';-inkscape-font-specification:'Barbie Vintage, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;white-space:pre;shape-inside:url(#rect19);display:inline;fill:#fce431;stroke:#000000;stroke-width:0.377953" />
+  </g>
+</svg>
